@@ -2,11 +2,12 @@
   <h1> Towards Comprehensive Interactive Change Understanding in Remote Sensing: A Large-scale Dataset and Dual-granularity Enhanced VLM</h1>
 </div>
 
+
+<img width="2400" height="1350" alt="image" src="https://github.com/user-attachments/assets/66620d17-e0bc-44dc-a262-7d97f473c1eb" />
+
 ## Publication
 
 Our paper has been accepted to **IEEE Transactions on Geoscience and Remote Sensing (TGRS)**!
-
-<img width="2400" height="1350" alt="image" src="https://github.com/user-attachments/assets/66620d17-e0bc-44dc-a262-7d97f473c1eb" />
 
 ## <a id="Abstract"></a>Abstract
 
@@ -30,6 +31,9 @@ Our dataset is available at: [Dataset Link](https://huggingface.co/datasets/Quan
 
 
 ## <a id="Result"></a>Result
+We provide a visualization of change captioning results from our model and baselines on the ChangeIMTI dataset:
+
+<img width="1233" height="745" alt="image" src="https://github.com/user-attachments/assets/a5307739-3e13-410a-8547-58e41707d65a" />
 
 
 
