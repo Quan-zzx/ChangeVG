@@ -33,7 +33,8 @@ Our dataset is available at: [Dataset Link](https://huggingface.co/datasets/Quan
 ## <a id="Result"></a>Result
 We provide a visualization of change captioning results from our model and baselines on the ChangeIMTI dataset:
 
-<img width="1233" height="745" alt="image" src="https://github.com/user-attachments/assets/a5307739-3e13-410a-8547-58e41707d65a" />
+<img width="1233" height="745" alt="image" src="https://github.com/user-attachments/assets/7d29ac36-b84a-41f6-b4ac-8ebcc550bdd2" />
+
 
 
 
